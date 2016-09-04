@@ -12,3 +12,9 @@ Weight  Texture      Label
  140    Smooth (1)   Apple  (0)
  130    Smooth (1)   Apple  (0)
  --------------------------------------------
+ 
+Horsepower   Seats   Label 
+   300         2      sport-car
+   450         2      sport-car
+   200         8      mini-van
+   150         9      mini-van
